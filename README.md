@@ -19,7 +19,7 @@
 Если враг обнаружен, солдат стреляет в него 10 раз с паузой в 1 секунду между каждым выстрелом
 Каждые 5 выстрелов солдат делает перезарядку
 
-Версия если солдат должен обнаруживать врага во время перемещения между точками:![BhvTreeVer2](https://user-images.githubusercontent.com/54494980/184197574-ab05411d-63db-4f90-bf22-6fc85ffd2e63.png)
+Версия, если солдат должен обнаруживать врага во время перемещения между точками:![BhvTreeVer2](https://user-images.githubusercontent.com/54494980/184197574-ab05411d-63db-4f90-bf22-6fc85ffd2e63.png)
 
 
-Версия если не должен:![BhvTreeVer1](https://user-images.githubusercontent.com/54494980/184197650-93d58551-cd31-4424-abd3-732ba764fea6.png)
+Версия, если не должен:![BhvTreeVer1](https://user-images.githubusercontent.com/54494980/184197650-93d58551-cd31-4424-abd3-732ba764fea6.png)
