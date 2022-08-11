@@ -1,0 +1,16 @@
+E:\UnityRepositories\SaberTestTasks\SaberSerialization\bin\Debug\net5.0\SaberSerialization.exe
+E:\UnityRepositories\SaberTestTasks\SaberSerialization\bin\Debug\net5.0\SaberSerialization.deps.json
+E:\UnityRepositories\SaberTestTasks\SaberSerialization\bin\Debug\net5.0\SaberSerialization.runtimeconfig.json
+E:\UnityRepositories\SaberTestTasks\SaberSerialization\bin\Debug\net5.0\SaberSerialization.runtimeconfig.dev.json
+E:\UnityRepositories\SaberTestTasks\SaberSerialization\bin\Debug\net5.0\SaberSerialization.dll
+E:\UnityRepositories\SaberTestTasks\SaberSerialization\bin\Debug\net5.0\ref\SaberSerialization.dll
+E:\UnityRepositories\SaberTestTasks\SaberSerialization\bin\Debug\net5.0\SaberSerialization.pdb
+E:\UnityRepositories\SaberTestTasks\SaberSerialization\obj\Debug\net5.0\SaberSerialization.csproj.AssemblyReference.cache
+E:\UnityRepositories\SaberTestTasks\SaberSerialization\obj\Debug\net5.0\SaberSerialization.GeneratedMSBuildEditorConfig.editorconfig
+E:\UnityRepositories\SaberTestTasks\SaberSerialization\obj\Debug\net5.0\SaberSerialization.AssemblyInfoInputs.cache
+E:\UnityRepositories\SaberTestTasks\SaberSerialization\obj\Debug\net5.0\SaberSerialization.AssemblyInfo.cs
+E:\UnityRepositories\SaberTestTasks\SaberSerialization\obj\Debug\net5.0\SaberSerialization.csproj.CoreCompileInputs.cache
+E:\UnityRepositories\SaberTestTasks\SaberSerialization\obj\Debug\net5.0\SaberSerialization.dll
+E:\UnityRepositories\SaberTestTasks\SaberSerialization\obj\Debug\net5.0\ref\SaberSerialization.dll
+E:\UnityRepositories\SaberTestTasks\SaberSerialization\obj\Debug\net5.0\SaberSerialization.pdb
+E:\UnityRepositories\SaberTestTasks\SaberSerialization\obj\Debug\net5.0\SaberSerialization.genruntimeconfig.cache

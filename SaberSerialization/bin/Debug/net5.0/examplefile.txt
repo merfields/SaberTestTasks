@@ -1,0 +1,5 @@
+[Data = Example data number 1; Rand = 5]
+[Data = каждый охотник желает знать где сидит фазан; Rand = 2]
+[Data = 12345678; Rand = 5]
+[Data = Случайная фраза № 4; Rand = 1]
+[Data = вфывфыаывф; Rand = 3]
